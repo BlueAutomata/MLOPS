@@ -1,0 +1,8 @@
+pandas
+numpy==2.1
+seaborn
+matplotlib
+scikit-learn
+scikit-optimize
+imblearn
+shap
