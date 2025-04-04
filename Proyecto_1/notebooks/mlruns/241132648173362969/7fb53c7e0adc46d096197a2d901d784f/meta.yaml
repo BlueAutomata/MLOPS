@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLOPS/Proyecto_1/notebooks/mlruns/241132648173362969/7fb53c7e0adc46d096197a2d901d784f/artifacts
+end_time: 1743729952349
+entry_point_name: ''
+experiment_id: '241132648173362969'
+lifecycle_stage: active
+run_id: 7fb53c7e0adc46d096197a2d901d784f
+run_name: MLP Optuna
+run_uuid: 7fb53c7e0adc46d096197a2d901d784f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743729934221
+status: 3
+tags: []
+user_id: Usuario

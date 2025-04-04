@@ -1,0 +1,6 @@
+artifact_location: file:///c:/MLOPS/Proyecto_1/notebooks/mlruns/241132648173362969
+creation_time: 1743728978967
+experiment_id: '241132648173362969'
+last_update_time: 1743728978967
+lifecycle_stage: active
+name: MLflow Churn
