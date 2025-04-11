@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLOPS/Proyecto_1/notebooks/mlruns/310794751774304322/e9cc5097edeb42eead2524819c9d2622/artifacts
+end_time: 1744329205427
+entry_point_name: ''
+experiment_id: '310794751774304322'
+lifecycle_stage: active
+run_id: e9cc5097edeb42eead2524819c9d2622
+run_name: Logistic Regression
+run_uuid: e9cc5097edeb42eead2524819c9d2622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744329200893
+status: 3
+tags: []
+user_id: Usuario
